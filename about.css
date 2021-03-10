@@ -17,15 +17,15 @@ body, html {
 
 }
 .pimg1 {
-   background-image: url("../Pictures/city1.jpg");
+   background-image: url("../city1.jpg");
    min-height: 400px;
 }
 .pimg2 {
-   background-image: url("../Pictures/city2.jpg");
+   background-image: url("../city2.jpg");
    min-height: 400px;
 }
 .pimg3 {
-   background-image: url("../Pictures/city3.jpg");
+   background-image: url("../city3.jpg");
    min-height: 400px;
 }
 .section {
