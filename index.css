@@ -191,7 +191,7 @@ Misc
     
 }
 .parallax {
-    background: url("../Pictures/prem_image_home.PNG") repeat fixed 100%;
+    background: url("../prem_image_home.PNG") repeat fixed 100%;
     background-size: 78%;
     background-position: center;
     padding-top: 100%;
